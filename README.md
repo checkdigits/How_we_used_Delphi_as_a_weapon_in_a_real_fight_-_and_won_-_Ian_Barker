@@ -2,7 +2,7 @@
 
 Original: **Ian Barker** 
 
-To accompany the blog post: [https://tinyurl.com/delhivscompetition](https://tinyurl.com/delhivscompetition)
+To accompany the blog post: [https://tinyurl.com/delphivscompetition](https://tinyurl.com/delphivscompetition)
 
 [https://github.com/checkdigits](https://github.com/checkdigits)
 
